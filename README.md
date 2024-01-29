@@ -1,1 +1,1 @@
-# bd-relacional
+# banco de dados relacional
